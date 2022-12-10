@@ -1,0 +1,17 @@
+D:\Dropbox\TruongHoc\DA_TinHoc\DA_QLLDA\QLLDA\QLLDA\bin\Debug\QLLDA.exe.config
+D:\Dropbox\TruongHoc\DA_TinHoc\DA_QLLDA\QLLDA\QLLDA\bin\Debug\QLLDA.exe
+D:\Dropbox\TruongHoc\DA_TinHoc\DA_QLLDA\QLLDA\QLLDA\bin\Debug\QLLDA.pdb
+D:\Dropbox\TruongHoc\DA_TinHoc\DA_QLLDA\QLLDA\QLLDA\obj\Debug\QLLDA.csproj.AssemblyReference.cache
+D:\Dropbox\TruongHoc\DA_TinHoc\DA_QLLDA\QLLDA\QLLDA\obj\Debug\QLLDA.csproj.SuggestedBindingRedirects.cache
+D:\Dropbox\TruongHoc\DA_TinHoc\DA_QLLDA\QLLDA\QLLDA\obj\Debug\QLLDA.gui.FormKhachHang.resources
+D:\Dropbox\TruongHoc\DA_TinHoc\DA_QLLDA\QLLDA\QLLDA\obj\Debug\QLLDA.Main.resources
+D:\Dropbox\TruongHoc\DA_TinHoc\DA_QLLDA\QLLDA\QLLDA\obj\Debug\QLLDA.Properties.Resources.resources
+D:\Dropbox\TruongHoc\DA_TinHoc\DA_QLLDA\QLLDA\QLLDA\obj\Debug\QLLDA.csproj.GenerateResource.cache
+D:\Dropbox\TruongHoc\DA_TinHoc\DA_QLLDA\QLLDA\QLLDA\obj\Debug\QLLDA.csproj.CoreCompileInputs.cache
+D:\Dropbox\TruongHoc\DA_TinHoc\DA_QLLDA\QLLDA\QLLDA\obj\Debug\QLLDA.exe
+D:\Dropbox\TruongHoc\DA_TinHoc\DA_QLLDA\QLLDA\QLLDA\obj\Debug\QLLDA.pdb
+D:\Dropbox\TruongHoc\DA_TinHoc\DA_QLLDA\QLLDA\QLLDA\obj\Debug\QLLDA.gui.FormDoAn.resources
+D:\Dropbox\TruongHoc\DA_TinHoc\DA_QLLDA\QLLDA\QLLDA\obj\Debug\QLLDA.gui.FormLoaiDoAn.resources
+D:\Dropbox\TruongHoc\DA_TinHoc\DA_QLLDA\QLLDA\QLLDA\obj\Debug\QLLDA.gui.FormHoaDon.resources
+D:\Dropbox\TruongHoc\DA_TinHoc\DA_QLLDA\QLLDA\QLLDA\obj\Debug\QLLDA.gui.FormChiTietHoaDon.resources
+D:\Dropbox\TruongHoc\DA_TinHoc\DA_QLLDA\QLLDA\QLLDA\obj\Debug\QLLDA.gui.FormXemBill.resources
